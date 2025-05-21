@@ -1,4 +1,4 @@
-# Business Intelligence Dashboard - README
+# BoardIQ - Business Intelligence Tool
 
 ![Dashboard Preview](public/dashboard-preview.png)
 
